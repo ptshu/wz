@@ -3,11 +3,13 @@
 ```
 
 git add .
-git commit -m “20240611”
+git commit -m “20240611b”
 git pull origin master --allow-unrelated-histories
 git push origin master
 
 ```
+注意：README.md文件名大写，其它小写！
+常用链接：
 [百度翻译](https://fanyi.baidu.com/) 
 
 # 部署git到GitHub
