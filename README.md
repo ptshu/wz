@@ -12,7 +12,7 @@ git push origin master
 注意：README.md文件名大写，其它小写！
 
 常用链接：
-[百度翻译](https://fanyi.baidu.com/) 
+[百度翻译](https://fanyi.baidu.com/) <br> 
 
 # 部署git到GitHub
 环境搭建
