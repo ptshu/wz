@@ -9,9 +9,10 @@ git push origin master
 
 ```
 # 2024.06.11
-
-注意：README.md文件名大写，其它小写！
-
+文件
+README.md(文件名大写，其它小写！)
+_posts.zip
+hexo20240611.zip
 常用链接：
 
 <a href="https://fanyi.baidu.com/" target="_blank">百度翻译</a>
