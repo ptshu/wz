@@ -3,12 +3,12 @@
 ```
 
 git add .
-git commit -m “20240607”
+git commit -m “20240611”
 git pull origin master --allow-unrelated-histories
 git push origin master
 
 ```
-
+[百度翻译](https://fanyi.baidu.com/) 
 
 # 部署git到GitHub
 环境搭建
