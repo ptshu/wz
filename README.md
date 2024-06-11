@@ -1,10 +1,12 @@
 # git常用命令
 
 ```
+
 git add .
 git commit -m “20240607”
 git pull origin master --allow-unrelated-histories
 git push origin master
+
 ```
 
 
