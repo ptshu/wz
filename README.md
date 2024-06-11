@@ -13,7 +13,7 @@ git push origin master
 
 常用链接：
 
-<a href=https://fanyi.baidu.com/ target=_blank>百度翻译</a>
+<a href="https://fanyi.baidu.com/" target="_blank">百度翻译</a>
 
 # 部署git到GitHub
 环境搭建
