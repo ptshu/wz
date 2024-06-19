@@ -3,7 +3,11 @@
 ```
 
 git add .
-git commit -m “20240611b”
+git commit -m “20240619”
+git push origin master
+
+git add .
+git commit -m “第一次上传”
 git pull origin master --allow-unrelated-histories
 git push origin master
 
