@@ -23,3 +23,17 @@
 　3.替换www.100daohang.cn 为您自己的桌面版网站地址
 　安装步骤：
 　1.上传空间即可使用。
+
+git add .
+git commit -m “20040620”
+git push origin master
+
+git remote -v
+
+git remote set-url origin git@github.com:ptshu/wz.git
+
+
+git add .
+git commit -m “第一次上传”
+git pull origin master --allow-unrelated-histories
+git push origin master
