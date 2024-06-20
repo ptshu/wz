@@ -1,31 +1,31 @@
-    ��ȥ���еİ汾���ǹ�ȥʽ�����꣬���˷����ĵ�����վϵ��Դ�룬��ȫ���޸ģ�������򵥣�����Ч��
-����Դ����º�һ�ɴ�����V1.0��ʼ��
-ϣ���������һ���õĿ�ʼ��
+    过去所有的版本都是过去式，新年，本人发布的导航网站系列源码，均全新修改，代码更简单，更高效。
+本次源码更新后一律从完美V1.0开始。
+希望是这次是一个好的开始。
 
-����
-    ��ϵ��Դ���ص㣺
-������ȫ���ʹ�á��ϴ��ռ伴��ʹ�ã����ɽ�վ���������̾����á�
-��������̬HTML����ɫԴ�룬������֧��HTML�Ŀռ䶼��֧��ASP��
-�������ݿ⡣
-������ҳ���ݿ�ֱ��ʹ�ü��±���д�ְ����ҳ�༭����ֱ�Ӵ򿪾Ϳ����޸ġ�
-�����������룬�޶����ļ����޲�����޶����桢�޵����������롣
-����
+　　
+    本系列源码特点：
+　　完全免费使用。上传空间即可使用，轻松建站。新手立刻就能用。
+　　纯静态HTML，绿色源码，基本上支持HTML的空间都会支持ASP。
+无需数据库。
+　　网页内容可直接使用记事本、写字板或网页编辑器，直接打开就可以修改。
+　　纯净代码，无多余文件、无插件、无恶意广告、无弹窗、无乱码。
+　　
 
  
 
-��������¼
-��2014-6-13 ��������V1.0�� �ƶ��˴���̬�� ȫ���׷�
-��
+　发布记录
+　2014-6-13 完美导航V1.0版 移动端纯静态版 全网首发
+　
 
-���޸Ĳ��裺
-��1.�޸���վ���ƣ���index.html ��title��
-��2.ͳ�ƴ����޸���index.html ���·�
-��3.�滻www.100daohang.cn Ϊ���Լ����������վ��ַ
-����װ���裺
-��1.�ϴ��ռ伴��ʹ�á�
+　修改步骤：
+　1.修改网站名称，在index.html 的title中
+　2.统计代码修改在index.html 最下方
+　3.替换www.100daohang.cn 为您自己的桌面版网站地址
+　安装步骤：
+　1.上传空间即可使用。
 
 git add .
-git commit -m ��20040620��
+git commit -m “20040620”
 git push origin master
 
 git remote -v
@@ -34,6 +34,6 @@ git remote set-url origin git@github.com:ptshu/wz.git
 
 
 git add .
-git commit -m ����һ���ϴ���
+git commit -m “第一次上传”
 git pull origin master --allow-unrelated-histories
 git push origin master
