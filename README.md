@@ -2,8 +2,10 @@
 
 ```
 
+git remote -v
+
 git add .
-git commit -m “20240619”
+git commit -m “20240623”
 git push origin master
 
 git add .
